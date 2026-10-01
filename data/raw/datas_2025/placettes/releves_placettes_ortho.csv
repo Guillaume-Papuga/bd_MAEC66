@@ -1,0 +1,41 @@
+Nom;Substrat;Humidite;RT;RA_sup6;RA_sup120;RA60_120;RA20_60;RA5_15;RH_sup120;RH60_120;RH40_60;RH20_40;RH10_20;RH3_10;RH_inf3;SN_ort;Physio_veget 
+Ey_m1;granite/terte;MX;90;;;;1;;;;3;5;5;25;50;10;pelouse subalpine /  pâture bovine
+Ey_m2;granite/terte;MX;95;;;;5;10;;;;15;60;30;10;5;pelouse subalpine /  pâture bovine
+Ey_m3;granite/terte;MX;99;;;;;5;;;;1;10;70;40;1;pelouse subalpine /  pâture bovine
+Ey_m4;granite/terte;MX;95;;;;;;;;;3;15;70;20;5;pelouse subalpine /  pâture bovine
+Ey_t1;granite/terte;MX;95;;;;1;10;;;;;2;10;75;5;pelouse subalpine /  pâture bovine
+Ey_t2;granite/terte;MX;95;;;;1;;;;;;10;20;75;5;pelouse subalpine /  pâture bovine
+Ey_t3;granite/terte;MX;85;;;;5;5;;;;1;5;15;60;15;pelouse subalpine /  pâture bovine
+Ey_t4;granite/terte;MX;99;;;;10;10;;;;1;5;30;55;1;pelouse subalpine /  pâture bovine
+N_m1;granite/terre;MX;85;;;;;;;;;5;15;25;60;15;pelouse subalpine/pâture ovine
+N_m2;granite/terre;MX;60;;;;;5;;;;;1;70;25;40;pelouse subalpine/ pâture ovine
+N_m3;granite/terre;MX;85;;;;;1;;;;1;;10;90;15;pelouse subalpine
+N_m4;granite/terre;MX;85;;;1;;1;;;;;1;5;95;15;pelouse subalpine/ pâture ovine
+N_t1;granite/terre;MX;99;20;1;;1;2;;;10;15;60;25;5;1;prairie haute avec quelques genévriers 
+N_t2;granite/terre;MX;98;3;10;1;25;;;;5;10;30;30;3;2;prairie haute mesophile et lande à Genêts plus sèche 
+N_t3;granite/terre;MX;98;;2;1;10;;;;;5;65;15;5;2;pelouse subalpine
+N_t4;granite/terre;MX;95;20;;;25;;;;5;60;;;;5;praitie haute en transition lande à Genêts 
+Pm_m1;granite/terre;MX;90;;5;1;25;35;;;;;2;10;30;10;lande rasé mixte à genet, genévrier et callune
+Pm_m2;granite/terre;MX;95;;1;;70;10;;;;15;5;2;;5;lande lâche à Genêts 
+Pm_m3;granite/terre;MX;99;1;5;1;85;5;;;1;1;1;5;;1;lande mixte à rhodo et Genet 
+Pm_m4;granite/terre;MX;75;;5;5;1;50;;;;;1;;20;25;pelouse subalpine /  pâture bovine
+Pm_t1;granite/terre;X;80;;;;70;;;;;5;25;10;5;20;lande à Genêts 
+Pm_t2;granite/terre;X;90;;1;1;70;10;;;;15;5;;;10;lande à Genêts 
+Pm_t3;granite/terre;MX;95;;1;70;20;1;;;;1;;5;;5;lande à genet
+Pm_t4;granite/terre;MX;100;;1;;5;20;;;;;5;1;70;0;pelouse subalpine /  pâture bovine
+Py_m1;granite;MX;100;;;;;;;;;10;20;40;20;0;pelouse subalpine
+Py_m2;granite;MX;99;;;;;;;;;5;30;50;25;1;pelouse subalpine
+Py_m3;granite;MX;99;;;;;;;;;;5;50;40;1;pelouse alpine
+Py_m4;granite;MX;99;;;;;;;;;0;10;80;20;1;pelouse subalpine
+Py_t1;granite;MX;100;;;;;;;;;70;20;40;5;0;pelouse  pâture ovine
+Py_t2;granite;MX;100;;1;;5;;;;30;50;50;20;0;0;pelouse  pâture ovine
+Py_t3;granite;MX;95;;;;;;;;;50;30;50;10;5;pelouse  pâture ovine
+Py_t4;granite;MX;100;;;;;;;;;;30;60;10;0;pelouse  pâture ovine
+M_m1;granite/terre;MX;90;;;;;10;;;;;;60;30;10;pelouse subalpine avec genévriers éparses 
+M_m2;granite/terre;MX;80;;;;;2;;;;5;5;50;40;20;pelouse subalpine 
+M_m3;granite/terre;MX;90;;;;;1;;;;2;15;65;20;10;pelouse subalpine
+M_m4;granite/terre;X;55;;2;;;30;;;;;;30;40;45;pelouse subalpine écorchée
+M_t1;granite/terre;MX;95;;1;;1;10;;;;2;2;70;15;5;pelouse subalpine rocailleuse
+M_t2;granite/terre;MX;70;;;;10;45;;;;;;30;15;30;Lande rase à myrtille, rhodo et genevrier
+M_t3;granite/terre;MX;90;;;;;1;;;;1;5;25;65;10;pelouse subalpine
+M_t4;granite/terre;X;80;;;;1;50;;;;;1;30;20;20;pelouse subalpine rocailleuse

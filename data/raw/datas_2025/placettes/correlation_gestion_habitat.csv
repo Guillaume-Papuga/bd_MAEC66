@@ -1,0 +1,41 @@
+ref_placette;mesure;temoin;altitude;reserve;confint;Habitat
+EY_M1;PRA3;mesure;2294;Eyne;modere;Pelouses thermophiles subalpines
+EY_M2;PRA3;mesure;2319;Eyne;modere;Pelouses thermophiles subalpines
+EY_M3;PRA3;mesure;2342;Eyne;faible;Pelouses thermophiles subalpines
+EY_M4;PRA3;mesure;2373;Eyne;modere;Pelouses thermophiles subalpines
+EY_T1;PRA3;temoin;2244;Eyne;ouvert;Pelouses subalpines basiphiles mésophiles à xéroclines
+EY_T2;PRA3;temoin;2297;Eyne;ouvert;Pelouses subalpines basiphiles mésophiles à xéroclines
+EY_T3;PRA3;temoin;2284;Eyne;modere a fort;Pelouses subalpines basiphiles mésophiles à xéroclines
+EY_T4;PRA3;temoin;2331;Eyne;modere a faible;Pelouses subalpines basiphiles mésophiles à xéroclines
+M_M1;PRA3;mesure;2397;Mantet;important;Pelouses subalpines à Festuca airoides
+M_M2;PRA3;mesure;2441;Mantet;important;Pelouses subalpines à Festuca airoides
+M_M3;PRA3;mesure;2525;Mantet;aucun;Pelouses subalpines à Festuca airoides
+M_M4;PRA3;mesure;2487;Mantet;aucun;Pelouses subalpines à Festuca airoides
+M_T1;PRA3;temoin;2318;Mantet;important;Pelouses subalpines à Festuca airoides
+M_T2;PRA3;temoin;2368;Mantet;moyen;Pelouses subalpines à Festuca airoides
+M_T3;PRA3;temoin;2536;Mantet;aucun;Pelouses subalpines à Festuca airoides
+M_T4;PRA3;temoin;2462;Mantet;aucun;Pelouses subalpines à Festuca airoides
+N_M1;PRA3;mesure;2380;Nohedes;nd;Pelouses subalpines à Festuca airoides
+N_M2;PRA3;mesure;2388;Nohedes;nd;Pelouses subalpines à Festuca airoides
+N_M3;PRA3;mesure;2441;Nohedes;nd;Pelouses subalpines à Festuca airoides
+N_M4;PRA3;mesure;2407;Nohedes;nd;Pelouses subalpines à Festuca airoides
+N_T1;PRA3;temoin;1986;Nohedes;nd;Pelouses en pente faible avec Nard et Gispet 
+N_T2;PRA3;temoin;1996;Nohedes;nd;Pelouses en pente faible avec Nard et Gispet 
+N_T3;PRA3;temoin;2037;Nohedes;nd;Pelouses en pente faible avec Nard et Gispet 
+N_T4;PRA3;temoin;2035;Nohedes;nd;Pelouses en pente faible avec Nard et Gispet 
+PM_M1;OUV2;mesure;2109;Prats;aucun;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_M2;OUV2;mesure;2039;Prats;aucun;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_M3;OUV2;mesure;2003;Prats;aucun;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_M4;OUV2;mesure;2120;Prats;aucun;Pelouses subalpines à Festuca airoides
+PM_T1;OUV2;temoin;2136;Prats;aucun;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_T2;OUV2;temoin;2000;Prats;nd;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_T3;OUV2;temoin;1927;Prats;aucun;Pelouses thermophiles à Gispet et landes associées à Genêt purgatif
+PM_T4;OUV2;temoin;2051;Prats;aucun;Pelouses subalpines à Festuca airoides
+PY_M1;PRA3;mesure;2240;Py;aucun;Pelouses subalpines à Festuca airoides
+PY_M2;PRA3;mesure;2296;Py;aucun;Pelouses subalpines à Festuca airoides
+PY_M3;PRA3;mesure;2275;Py;aucun;Pelouses subalpines à Festuca airoides
+PY_M4;PRA3;mesure;2261;Py;aucun;Pelouses subalpines à Festuca airoides
+PY_T1;PRA3;temoin;1952;Py;aucun;Nardaies subalpines à Pâturin violacé
+PY_T2;PRA3;temoin;1974;Py;aucun;Nardaies subalpines à Pâturin violacé
+PY_T3;PRA3;temoin;2075;Py;aucun;Nardaies subalpines à Pâturin violacé
+PY_T4;PRA3;temoin;2103;Py;aucun;Nardaies subalpines à Pâturin violacé
